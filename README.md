@@ -7,7 +7,9 @@ This is a product of the parent company [OnTop](https://discord.gg/WdaqErJWK5), 
 This is what you came here for, 
 // put hacks here when you get the files.
 ## How to use
-[Open Devtools](https://balsamiq.com/support/faqs/browserconsole/#:~:text=To%20open%20the%20developer%20console,(on%20Windows%2FLinux).)
+- [Open Devtools](https://balsamiq.com/support/faqs/browserconsole/#:~:text=To%20open%20the%20developer%20console,(on%20Windows%2FLinux).)
+- Paste in the code you want to run into the console.
+- Press enter.
 
 ## Q&A
 <details open>
