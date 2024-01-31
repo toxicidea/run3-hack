@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="500" src="runner.png" alt="Runner logo">
+</p>
 <h1 style="font-size:50px;" align="center">Runner</h1> <br>
 
 # About us
